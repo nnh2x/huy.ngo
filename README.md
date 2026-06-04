@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/ngonhathuy6878%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ngonhathuy6878@gmail.com)
 [![Location](https://img.shields.io/badge/Ho_Chi_Minh_City-Vietnam-red?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ho+Chi+Minh+City)
 [![Phone](https://img.shields.io/badge/0384.771.782-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+84384771782)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=4ade80&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=nnh2x&style=flat-square&color=4ade80&label=profile+views)
 
 </div>
 
@@ -200,16 +200,13 @@ Full-stack PMS integrated with SAP, covering end-to-end procurement workflows:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnh2x&theme=tokyonight)](https://github.com/nnh2x)
 
-<br/>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnh2x&theme=tokyonight)](https://github.com/nnh2x)&nbsp;[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nnh2x&theme=tokyonight)](https://github.com/nnh2x)&nbsp;[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nnh2x&theme=tokyonight)](https://github.com/nnh2x)
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nnh2x&theme=tokyo-night&hide_border=true&area=true)](https://github.com/nnh2x)
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=nnh2x&style=flat-square&color=3b82f6&label=Profile+Views)&nbsp;![Followers](https://img.shields.io/github/followers/nnh2x?style=flat-square&color=3b82f6&label=Followers)
 
 </div>
 
